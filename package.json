@@ -1,0 +1,24 @@
+{
+  "name": "@melexshop/melexshop-api",
+  "version": "1.0.0",
+  "description": "Easily integrate Melexshop's powerful API into your JavaScript applications with the Melexshop API Bindings for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melexsoft/melexshop-api.git"
+  },
+  "keywords": [
+    "api",
+    "ecommerce",
+    "melexshop"
+  ],
+  "author": "Ferhat Ziba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Melexsoft/melexshop-api/issues"
+  },
+  "homepage": "https://github.com/Melexsoft/melexshop-api#readme"
+}
